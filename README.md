@@ -2,6 +2,7 @@
 
 ## Available Scripts
  To install react 
+ <br>
  -open browser and install node js  from https://nodejs.org/en/download/current
  -RUN the code in vs code in your terminal 
  ### npx create-react-app my-app
