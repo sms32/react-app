@@ -5,7 +5,8 @@
  <br>
  -open browser and install node js  from https://nodejs.org/en/download/current
   <br>
- -RUN the code in vs code in your terminal 
+  <br>
+ RUN the code in vs code in your terminal 
  ### npx create-react-app my-app
  where my app is your your react app name
  then ,
