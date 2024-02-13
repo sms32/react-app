@@ -9,3 +9,5 @@
  then ,
  ### cd my-app
  ### npm start 
+then click on the local host link 
+http://localhost:3000  to open your react app on local host
